@@ -1,0 +1,12 @@
+{
+  "name": "may-16-ftp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Maks Atygaev",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "static-server": "^2.2.1"
+  }
+}
